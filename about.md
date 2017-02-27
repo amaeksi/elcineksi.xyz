@@ -1,7 +1,6 @@
 ---
-title: Hakkımda
+title: Hakkımdaa
 layout: page
 permalink: "/hakkimda/"
 ---
-
-İçerik
+olcak olcak.

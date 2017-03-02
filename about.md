@@ -3,5 +3,4 @@ title: Hakkımda
 layout: page
 permalink: "/hakkimda/"
 ---
-
-İçerik
+Hakkımda sayfası içeriği
